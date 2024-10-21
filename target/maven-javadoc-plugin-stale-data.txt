@@ -1,0 +1,50 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/XPC/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar;C:/Users/XPC/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar;C:/Users/XPC/.m2/repository/com/itextpdf/itextpdf/5.5.13.1/itextpdf-5.5.13.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/XPC/Documents/NetBeansProjects/programa1_parqueos_callejero/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/XPC/Documents/NetBeansProjects/programa1_parqueos_callejero/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'programa1_parqueos_callejero 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'programa1_parqueos_callejero 1.0-SNAPSHOT API'
+com.mycompany.proyeesq
+C:\Users\XPC\.m2\repository\com\sun\mail\javax.mail\1.6.2\javax.mail-1.6.2.jar = 1728792879069
+C:\Users\XPC\.m2\repository\javax\activation\activation\1.1\activation-1.1.jar = 1728792878598
+C:\Users\XPC\.m2\repository\com\itextpdf\itextpdf\5.5.13.1\itextpdf-5.5.13.1.jar = 1728799005220
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\src\main\java = 1728973045898
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\allclasses-index.html = 1729393888832
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\allpackages-index.html = 1729393888836
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\element-list = 1729393888698
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\help-doc.html = 1729393888875
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\index-all.html = 1729393888869
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\index.html = 1729393888871
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\jquery-ui.overrides.css = 1729393888897
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\member-search-index.js = 1729393888846
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\module-search-index.js = 1729393888837
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\overview-tree.html = 1729393888812
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\package-search-index.js = 1729393888839
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\script.js = 1729393888878
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\search.js = 1729393888881
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\serialized-form.html = 1729393888757
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\stylesheet.css = 1729393888877
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\tag-search-index.js = 1729393888847
+C:\Users\XPC\Documents\NetBeansProjects\programa1_parqueos_callejero\target\reports\apidocs\type-search-index.js = 1729393888841
